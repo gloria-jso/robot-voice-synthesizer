@@ -6,4 +6,4 @@ This project, submitted in *BME 252: Linear Signals and Systems*, leverages spec
 
 Written in a Python Jupyter Notebook, it uses packages `NumPy`, `Matplotlib`, and `SciPy` to perform Fourier transforms and signal processing.
 
-Credit to my classmates, Gloria So and Agam Soni, for testing different parameters to optimize the quality of the output.
+Credit to my classmates, Sophia Xie and Agam Soni, for testing different parameters to optimize the quality of the output.
